@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
